@@ -56,6 +56,10 @@ getText
 
          This gets "title" if "header" is empty. If "title" is also empty it
          gets field "uid"
+         
+         .. warning::
+         
+            Hang on, it's a bit complicated.
 
 
 .. _data-type-gettext-field:
